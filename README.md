@@ -7,3 +7,10 @@ We keep the stack simple by using the fundamentals of web develop so that the fo
 
 Declaration of AI : used in this project for debugging and code formatting alignment. All generated will reviewed by developers.
 (Yes we use AI to help us convince users to not rely on AI, you can say we made it self sabotage :3)
+
+
+How to Run the Project
+
+1. Clone this repository
+2. Open the project folder
+3. Open page1_ai-quiz.html in your browser
